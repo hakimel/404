@@ -1,0 +1,7 @@
+.DS_Store
+.svn
+log/*.log
+tmp/**
+dist
+netmag_files
+netmag.html
