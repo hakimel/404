@@ -1,4 +1,3 @@
-
 /**
  * Copyright (C) 2011 Hakim El Hattab, http://hakim.se
  * 
@@ -24,8 +23,8 @@
  */
 (function(){
 	
-	var DISPLAY_WIDTH = 960,
-		DISPLAY_HEIGHT = 480,
+	var DISPLAY_WIDTH = innerWidth,
+		DISPLAY_HEIGHT = innerHeight,
 		DISPLAY_DURATION = 10,
 		OVERLAY_DURATION = 3;
 	
@@ -54,6 +53,8 @@
 				mouse.y = event.clientY;
 			}, false );
 			
+			
+			//Thinking about how to generate them randomly/statically on the page...
 			eyes = [
 				new Eye( canvas,   0.50, 0.50,   5.00,    0.10 ),
 				
