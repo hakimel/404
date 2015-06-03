@@ -8,4 +8,4 @@ This 404 page was created for netmagazine.com.
 
 MIT licensed
 
-Copyright (C) 2011 <a title="By Unbiassed (Own work) [Public domain], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3AUS_Patent_cover.jpg"><img width="256" alt="US Patent cover" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/US_Patent_cover.jpg/256px-US_Patent_cover.jpg"/></a>
+Copyright (C) 2011 <a title="By Unbiassed (Own work) [Public domain], via Wikimedia Commons" href="http://upload.wikimedia.org/wikipedia/commons/7/71/US_Patent_cover.jpg"><img width="256" alt="US Patent cover" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/US_Patent_cover.jpg/256px-US_Patent_cover.jpg"/></a>
