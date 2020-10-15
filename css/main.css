@@ -60,7 +60,15 @@ header a {
 #fof {
 	margin-top: 40px;
 	text-align: center;
+	font-size: 12px;
+	color: white;
+	z-index: 999;
 }
+
+#ngox {
+	margin-bottom: 0;
+}
+
 
 
 
