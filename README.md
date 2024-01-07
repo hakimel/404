@@ -9,3 +9,4 @@ This 404 page was created for netmagazine.com.
 MIT licensed
 
 Copyright (C) 2011 Hakim El Hattab, http://hakim.se
+KAMPANAT THUMWONG
